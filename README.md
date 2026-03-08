@@ -1,6 +1,8 @@
 # 3RI--On-Page-SEO-work
 # Table Of Content
-1. [Page Title](#PAGE-TITLES)
+|S.No| Haeding| Work Done|
+|-----|-------|-----------|
+|1| [Page Title](#PAGE-TITLES)| NO Duplicate title, Ignore Keyword Cannibalisation, Keyword Targeting, Page descriptive, Missing Title|
 ## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
 <br/>
