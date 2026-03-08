@@ -22,6 +22,8 @@
 
 - Are page titles descriptive of the page content?
 - Are any page titles missing?
+  <br/>
+  <br/>
 
   ## Meta Decription
 - Keep it up to 155 characters
