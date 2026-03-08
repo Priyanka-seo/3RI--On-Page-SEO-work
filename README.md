@@ -2,7 +2,7 @@
 # Table Of Content
 |S.No| Haeding| Work Done|
 |-----|-------|-----------|
-|1| [Page Title](#PAGE-TITLES)| NO Duplicate title, Ignore Keyword Cannibalisation, Keyword Targeting, Page descriptive, Missing Title|
+|1| [Page Title](#PAGE-TITLES)| No Duplicate title, Ignore Keyword Cannibalisation, Keyword Targeting, Page descriptive, Missing Title|
 ## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
 <br/>
