@@ -46,6 +46,5 @@
   ## Image Optimization
   ## Keyword Research and Optimization
   ## Internal Links (In-Page Links)
-  ## Sitemap
   ## Use of MultiMedia
   
