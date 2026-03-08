@@ -4,6 +4,8 @@
 <br/>
 <br/>
   <img width="1915" height="346" alt="image" src="https://github.com/user-attachments/assets/34b13502-3f73-4653-9fa7-7b86dd169be7" />
+  <br/>
+  <br/>
 
 - Are any page titles being duplicated without canonical/pagination?
 - Any signs of keyword cannibalisation?
