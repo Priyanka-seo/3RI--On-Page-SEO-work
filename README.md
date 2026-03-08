@@ -34,3 +34,13 @@
 - Show specifications when needed
 - Make sure it matches the content of the page
 - Every Meta decription should be unique
+
+  ## Heading (H1-H6)
+  ## Content
+  ## URL Optimization
+  ## Image Optimization
+  ## Keyword Research and Optimization
+  ## Internal Links (In-Page Links)
+  ## Sitemap
+  ## Use of MultiMedia
+  
