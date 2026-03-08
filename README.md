@@ -4,6 +4,11 @@
 |-----|-------|-----------|
 |1| [Page Title](#PAGE-TITLES)| No Duplicate title, Ignore Keyword Cannibalisation, Keyword Targeting, Page descriptive, Missing Title|
 |2| [Meta Description](#Meta-Decription)| Inculde CTA, Actionable, Matches the content of the page, Unique|
+|3| [Heading](#Heading)|        |
+|4| [Content](#Content)|        |
+|5| [URL Optimization](#URL-Optimization) |           |
+|6| [Image Optimization](#Image-Optimization) |        |
+|7| [Keyword Research and Optimization](https://github.com/Priyanka-seo/Keyword-Ranking) |          |
 ## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
 <br/>
