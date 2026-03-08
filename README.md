@@ -22,3 +22,12 @@
 
 - Are page titles descriptive of the page content?
 - Are any page titles missing?
+
+  ## Meta Decription
+- Keep it up to 155 characters
+- Use an active voice and make it actionable 
+- Include a call to action (CTA)
+- Use your Targeted keyphrase
+- Show specifications when needed
+- Make sure it matches the content of the page
+- Every Meta decription should be unique
