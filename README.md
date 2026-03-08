@@ -46,5 +46,8 @@
   ## Image Optimization
   ## Keyword Research and Optimization
   ## Internal Links (In-Page Links)
+  ## AI Search Optimization
+  ## User Experience
+  ## Authority & Trust Signals
   ## Use of MultiMedia
   
