@@ -3,6 +3,7 @@
 |S.No| Haeding| Work Done|
 |-----|-------|-----------|
 |1| [Page Title](#PAGE-TITLES)| No Duplicate title, Ignore Keyword Cannibalisation, Keyword Targeting, Page descriptive, Missing Title|
+|2| [Meta Description](#Meta-Decription)| Inculde CTA, Actionable, Matches the content of the page, Unique|
 ## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
 <br/>
@@ -29,7 +30,7 @@
 - Keep it up to 155 characters
 - Use an active voice and make it actionable 
 - Include a call to action (CTA)
-- Use your Targeted keyphrase
+- Use your targeted keyphrase
 - Show specifications when needed
 - Make sure it matches the content of the page
 - Every Meta decription should be unique
