@@ -1,7 +1,7 @@
 # 3RI--On-Page-SEO-work
 # Table Of Content
 1. [Page Title](PAGE-TITLES)
-## PAGE TITLES (Meta Title)
+## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
 <br/>
 <br/>
