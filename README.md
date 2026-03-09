@@ -40,7 +40,7 @@
 - Make sure it matches the content of the page
 - Every Meta decription should be unique
 
-  ## Heading (H1-H6)
+  ## Heading
 "**H1**" for the main topic, with H2s for main sections and H3s for sub-sections, maintaining logical hierarchy.
 
 one "**H1**" per page.
