@@ -9,6 +9,7 @@
 |5| [URL Optimization](#URL-Optimization) |           |
 |6| [Image Optimization](#Image-Optimization) |        |
 |7| [Keyword Research and Optimization](https://github.com/Priyanka-seo/Keyword-Ranking) |          |
+
 ## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
 <br/>
@@ -31,7 +32,7 @@
   <br/>
   <br/>
 
-  ## Meta Decription
+## Meta Decription
 - Keep it up to 155 characters
 - Use an active voice and make it actionable 
 - Include a call to action (CTA)
@@ -40,7 +41,7 @@
 - Make sure it matches the content of the page
 - Every Meta decription should be unique
 
-  ## Heading
+## Heading
 "**H1**" for the main topic, with H2s for main sections and H3s for sub-sections, maintaining logical hierarchy.
 
 one "**H1**" per page.
@@ -55,7 +56,7 @@ one "**H1**" per page.
 - Repeating the same heading text in multiple places is also a problem. It should be Unique
 - Keyword stuffing is another mistake. Headings should sound natural.
 
-  ### Here’s what the structure of that post might look like:
+### Here’s what the structure of that post might look like:
   
   - H1: Data Science Career Roadmap
   - H2: What is Data Science?
@@ -92,8 +93,8 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 <img width="1447" height="544" alt="H4-H6 Note" src="https://github.com/user-attachments/assets/987ca0ef-ed6d-453e-a18f-2e0e98965755" />
 
  
-  ## Content
-  ## URL Optimization
+## Content
+## URL Optimization
 - Use Single domain and Sub domain
 - More readable for human
   <br/>
@@ -109,11 +110,11 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 - Exclude dynamic parameters
 - Limit redirection
   
-  ## Image Optimization
-  ## Keyword Research and Optimization
-  ## Internal Links (In-Page Links)
-  ## AI Search Optimization
-  ## User Experience
-  ## Authority & Trust Signals
-  ## Use of MultiMedia
+## Image Optimization
+## Keyword Research and Optimization
+## Internal Links (In-Page Links)
+## AI Search Optimization
+## User Experience
+## Authority & Trust Signals
+## Use of MultiMedia
   
