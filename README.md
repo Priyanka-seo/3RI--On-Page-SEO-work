@@ -95,7 +95,7 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
   ## Content
   ## URL Optimization
 - Use Single domain and Sub domain
-- More reable for human
+- More readable for human
   <br/>
   <br/>
   <img width="1123" height="154" alt="image" src="https://github.com/user-attachments/assets/cebdce22-23a1-4487-b011-99b870e06b43" />
@@ -105,6 +105,8 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 - Using hyphens to separate words.
 - Incorporating relevant keywords without overstuffing.
 - Avoiding dynamic parameters and unnecessary characters.
+- Exclude dynamic parameters
+- Limit redirection
   ## Image Optimization
   ## Keyword Research and Optimization
   ## Internal Links (In-Page Links)
