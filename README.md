@@ -49,6 +49,43 @@ one "**H1**" per page.
 
 "**H3**" headings are used within an H2 section to break it down into smaller parts. They are useful when we explain steps, compare options, or cover several closely related points within one larger section.
 
+## Common Mistake 
+- Use Heading  only for visual styling
+- Skipping heading levels, such as jumping directly from H2 to H4. This disrupts the logical structure of the page and creates issues for screen readers and search engines.
+- Repeating the same heading text in multiple places is also a problem. It should be Unique
+- Keyword stuffing is another mistake. Headings should sound natural.
+
+  ### Here’s what the structure of that post might look like:
+  
+  - H1: Data Science Career Roadmap
+  - H2: What is Data Science?
+    - H3: Definition of Data Science
+    - H3: Why Data Science is a Popular Career
+    - H3: Industries Using Data Science
+  - H2: Skills Required for Data Science
+    - H3: Programming Languages (Python, R)
+    - H3: Statistics and Probability Basics
+    - H3: Data Visualization Skills
+    - H3: SQL and Database Knowledge
+  - H2: Step-by-Step Data Science Learning Path
+    - H3: Step 1: Learn Programming Fundamentals
+    - H3: Step 2: Understand Statistics and Mathematics
+    - H3: Step 3: Learn Data Analysis and Visualization
+    - H3: Step 4: Study Machine Learning Basics
+    - H3: Step 5: Work on Real Data Science Projects
+  - H2: Tools Used in Data Science
+    - H3: Python Libraries (Pandas, NumPy, Scikit-learn)
+    - H3: Data Visualization Tools
+    - H3: Machine Learning Frameworks
+  - H2: Building a Data Science Portfolio
+    - H3: Create Real-World Projects
+    - H3: Upload Projects on GitHub
+    - H3: Participate in Kaggle Competitions
+  - H2: Career Opportunities in Data Science
+    - H3: Data Analyst
+    - H3: Data Scientist
+    - H3: Machine Learning Engineer
+
 we should not use H3 headings unless they add clarity. Headings are meant to support the reader, not to decorate the page.
   ## Content
   ## URL Optimization
