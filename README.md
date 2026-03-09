@@ -101,12 +101,14 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
   <img width="1123" height="154" alt="image" src="https://github.com/user-attachments/assets/cebdce22-23a1-4487-b011-99b870e06b43" />
 <br/>
 <br/>
+
 - Keeping URLs short and descriptive.
 - Using hyphens to separate words.
 - Incorporating relevant keywords without overstuffing.
 - Avoiding dynamic parameters and unnecessary characters.
 - Exclude dynamic parameters
 - Limit redirection
+  
   ## Image Optimization
   ## Keyword Research and Optimization
   ## Internal Links (In-Page Links)
