@@ -89,11 +89,8 @@ one "**H1**" per page.
 we should not use H3 headings unless they add clarity. Headings are meant to support the reader, not to decorate the page.
 <br/>
 <br/>
-> <span style="color: blue; font-weight: bold;"> Note:</span> 
-- I avoided using excessive heading levels such as **H4–H6** in this structure.  
-- From an SEO and content-structure perspective, most blog articles can be effectively organized using **H1, H2, and H3 headings**.  
-- While search engines like Google can understand all heading levels, using too many nested headings can create an unnecessarily complex page structure for users.  
-- A simpler **H1 → H2 → H3 hierarchy** improves readability, content scanning, and helps both users and search engines understand the primary topic and supporting sections more clearly.
+<img width="1447" height="544" alt="H4-H6 Note" src="https://github.com/user-attachments/assets/987ca0ef-ed6d-453e-a18f-2e0e98965755" />
+
  
   ## Content
   ## URL Optimization
