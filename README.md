@@ -45,11 +45,11 @@
 
 one "**H1**" per page.
 
-"**H2 headings**" divide your article into its main sections. Each H2 should cover one important aspect of your topic. When someone scans only your H2 headings, they should still be able to understand the overall structure and purpose of your article.
+"**H2 headings**" divide our article into its main sections. Each H2 will cover one important aspect of our topic. When someone scans only our H2 headings, they should still be able to understand the overall structure and purpose of our article.
 
-"**H3**" headings are used within an H2 section to break it down into smaller parts. They are useful when you explain steps, compare options, or cover several closely related points within one larger section.
+"**H3**" headings are used within an H2 section to break it down into smaller parts. They are useful when we explain steps, compare options, or cover several closely related points within one larger section.
 
-You should not use H3 headings unless they add clarity. Headings are meant to support the reader, not to decorate the page.
+we should not use H3 headings unless they add clarity. Headings are meant to support the reader, not to decorate the page.
   ## Content
   ## URL Optimization
   ## Image Optimization
