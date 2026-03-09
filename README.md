@@ -51,7 +51,7 @@ one "**H1**" per page.
 
 ## Common Mistake 
 - Use Heading  only for visual styling
-- Skipping heading levels, such as jumping directly from H2 to H4. This disrupts the logical structure of the page and creates issues for screen readers and search engines.
+- Skipping heading levels, such as jumping directly from H2 to H4. This disrupts the logical structure of the page and creates issues for screen readers and search engines.  (e.g. H4 should not follow H2)
 - Repeating the same heading text in multiple places is also a problem. It should be Unique
 - Keyword stuffing is another mistake. Headings should sound natural.
 
