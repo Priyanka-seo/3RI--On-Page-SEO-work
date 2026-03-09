@@ -41,8 +41,9 @@
 - Every Meta decription should be unique
 
   ## Heading (H1-H6)
-  H1 for the main topic, with H2s for main sections and H3s for sub-sections, maintaining logical hierarchy.
-  one "**H1**" per page.
+"**H1**" for the main topic, with H2s for main sections and H3s for sub-sections, maintaining logical hierarchy.
+
+one "**H1**" per page.
 
 "**H2 headings**" divide your article into its main sections. Each H2 should cover one important aspect of your topic. When someone scans only your H2 headings, they should still be able to understand the overall structure and purpose of your article.
 
