@@ -73,7 +73,7 @@ one "**H1**" per page.
     - H3: Step 3: Learn Data Analysis and Visualization
     - H3: Step 4: Study Machine Learning Basics
     - H3: Step 5: Work on Real Data Science Projects
-  - H2: Tools Used in Data Science
+  - H2: Tools Used in Data Science career Path
     - H3: Python Libraries (Pandas, NumPy, Scikit-learn)
     - H3: Data Visualization Tools
     - H3: Machine Learning Frameworks
@@ -81,7 +81,7 @@ one "**H1**" per page.
     - H3: Create Real-World Projects
     - H3: Upload Projects on GitHub
     - H3: Participate in Kaggle Competitions
-  - H2: Career Opportunities in Data Science
+  - H2: Career Opportunities in Data Science in Pune
     - H3: Data Analyst
     - H3: Data Scientist
     - H3: Machine Learning Engineer
