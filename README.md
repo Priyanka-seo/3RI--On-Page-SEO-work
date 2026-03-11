@@ -9,6 +9,7 @@
 |5| [URL Optimization](#URL-Optimization) |           |
 |6| [Image Optimization](#Image-Optimization) |        |
 |7| [Keyword Research and Optimization](#Keyword-Research-and-Optimization) |          |
+|8| [AI Search Optimization](#AI-Search-Optimization)|                            |
 
 ## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
