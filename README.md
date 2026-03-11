@@ -9,6 +9,7 @@
 |5| [URL Optimization](#URL-Optimization) |           |
 |6| [Image Optimization](#Image-Optimization) |        |
 |7| [Keyword Research and Optimization](#Keyword-Research-and-Optimization) |          |
+|8| [Internal Links](#Internal-Links) |                            |
 |8| [AI Search Optimization](#AI-Search-Optimization)|                            |
 
 ## PAGE TITLES 
@@ -155,7 +156,8 @@ Proper keyword optimization also ensures that the content aligns with user inten
 
 🔎 Detailed Guide:
 A complete breakdown of keyword research methods, tools, and optimization techniques,is in the detailed documentation mentioned:[Keyword Research and Optimization](https://github.com/Priyanka-seo/Keyword-Ranking)
-## Internal Links (In-Page Links)
+## Internal Links 
+(In-Page Links)
 
 ## AI Search Optimization
 
