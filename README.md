@@ -164,8 +164,7 @@ To improve visibility in AI-driven search experiences, content should be clear, 
 
 AI optimization also involves creating content that directly addresses user intent, provides concise explanations, and supports both traditional search results and AI-generated summaries.
 
-Here the complete 3RI Technologies work with Result of strategies, ranking signals, and optimization methods, refer to the detailed documentation:  
-[AI Search Optimization – Detailed Guide](https://github.com/Priyanka-seo/AI-Overview)
+Here the complete 3RI Technologies work with Result of strategies, ranking signals, and optimization methods, refer to the detailed documentation:[AI Search Optimization – Detailed Guide](https://github.com/Priyanka-seo/AI-Overview)
 
 ### Key Elements of AI Search Optimization
 
