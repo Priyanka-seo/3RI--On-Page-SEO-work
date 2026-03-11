@@ -177,7 +177,7 @@ Here the complete 3RI Technologies work with Result of strategies, ranking signa
 - Ensure high-quality, factual, and trustworthy information to improve AI content extraction.
 - Use internal linking to provide contextual signals to search engines and AI systems.
 - Optimize images and multimedia content to support visual AI search results.
-- 
+  
 ## User Experience
 ## Authority & Trust Signals
 ## Use of MultiMedia
