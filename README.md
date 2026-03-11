@@ -111,6 +111,18 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 - Limit redirection
   
 ## Image Optimization
+
+### Image optimization for improved accessibility in search results
+
+A picture will be worth a thousand words, but without proper optimization, search engines can't read any of them!
+
+Basically, We need to make our images: 
+
+- Fast-loading so they don’t hurt user experience
+- Easy for search engines (and users) to discover
+- Highly accessible by including alternative text (alt text) that describes the image
+- Goldilocks-perfect size
+
 ## Keyword Research and Optimization
 ## Internal Links (In-Page Links)
 ## AI Search Optimization
