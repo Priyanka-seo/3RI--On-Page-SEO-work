@@ -145,6 +145,15 @@ Basically, We need to make our images:
 
   
 ## Keyword Research and Optimization
+
+Keyword research and optimization are fundamental parts of SEO that help identify the search terms users enter in search engines. By analyzing search intent, search volume, keyword difficulty, and competitor rankings, the most relevant keywords can be selected for targeting.
+
+These keywords are then strategically optimized within page titles, headings, URLs, content, meta tags, and internal links to improve search visibility and ranking potential.
+
+Proper keyword optimization also ensures that the content aligns with user intent, making it easier for search engines to understand the page topic and deliver it to the right audience.
+
+🔎 Detailed Guide:
+A complete breakdown of keyword research methods, tools, and optimization techniques,is in the detailed documentation mentioned:[Keyword Research and Optimization](https://github.com/Priyanka-seo/Keyword-Ranking)
 ## Internal Links (In-Page Links)
 ## AI Search Optimization
 ## User Experience
