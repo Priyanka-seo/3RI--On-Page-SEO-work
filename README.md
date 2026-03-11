@@ -134,8 +134,16 @@ Basically, We need to make our images:
 - Use descriptive, keyword-relevant filenames
 - Write meaningful alt text (but not just for SEO)
 - Optimize image titles and captions (when appropriate) their is a differnce between captions and title: Captions are not the same as title attributes
-  
+- Use the right file format
+- Serve responsive images for all devices
 
+### Technical SEO enhancements for images
+- Implement lazy loading
+- Include image schema markup with keywords where relevant
+- Create and submit an image sitemap
+- Use browser caching for images to reduce repeated loading and improve user experience.
+
+  
 ## Keyword Research and Optimization
 ## Internal Links (In-Page Links)
 ## AI Search Optimization
