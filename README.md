@@ -123,6 +123,19 @@ Basically, We need to make our images:
 - Highly accessible by including alternative text (alt text) that describes the image
 - Goldilocks-perfect size
 
+### Benefits of image optimization
+
+- **Better Core Web Vitals**: Image optimization improves Core Web Vitals by reducing image size, preventing layout shifts, and improving page loading speed, which leads to better user experience and stronger search ranking signals.
+- **Better indexing in visual searches**- Optimized images help search engines understand, crawl, and index visual content better, increasing the chances of appearing in image search and visual discovery platforms.
+- **Better user experience**- Optimized images create a faster, smoother, and more accessible browsing experience, which increases user engagement and reduces bounce rate.
+- **Better visibility for AI-driven results**- Optimized images help AI-powered search engines understand visual content better, improving the chances of appearing in AI-driven search results and visual discovery features.
+
+### On-page image optimization
+- Use descriptive, keyword-relevant filenames
+- Write meaningful alt text (but not just for SEO)
+- Optimize image titles and captions (when appropriate) their is a differnce between captions and title: Captions are not the same as title attributes
+  
+
 ## Keyword Research and Optimization
 ## Internal Links (In-Page Links)
 ## AI Search Optimization
