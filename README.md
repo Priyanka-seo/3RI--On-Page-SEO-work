@@ -11,6 +11,9 @@
 |7| [Keyword Research and Optimization](#Keyword-Research-and-Optimization) |          |
 |8| [Internal Links](#Internal-Links) |                            |
 |8| [AI Search Optimization](#AI-Search-Optimization)|                            |
+|9| [User Experience](#User-Experience) |                                      |
+|10| [Authority & Trust Signals](#Authority-&-Trust-Signals) |                  |
+|11|[Use of MultiMedia](#Use-of-MultiMedia) |                        |
 
 ## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
