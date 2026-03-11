@@ -146,7 +146,7 @@ Basically, We need to make our images:
   
 ## Keyword Research and Optimization
 
-Keyword research and optimization are fundamental parts of SEO that help identify the search terms users enter in search engines. By analyzing search intent, search volume, keyword difficulty, and competitor rankings, the most relevant keywords can be selected for targeting.
+Keyword research and optimization is the parts of SEO that help identify the search terms users enter in search engines. By analyzing search intent, search volume, keyword difficulty, and competitor rankings, the most relevant keywords can be selected for targeting.
 
 These keywords are then strategically optimized within page titles, headings, URLs, content, meta tags, and internal links to improve search visibility and ranking potential.
 
