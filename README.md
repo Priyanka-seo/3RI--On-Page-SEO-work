@@ -12,7 +12,7 @@
 |8| [Internal Links](#Internal-Links) |                            |
 |8| [AI Search Optimization](#AI-Search-Optimization)|                            |
 |9| [User Experience](#User-Experience) |                                      |
-|10| [Authority & Trust Signals](#Authority-&-Trust-Signals) |                  |
+|10| [Authority and Trust Signals](#Authority-and-Trust-Signals) |                  |
 |11|[Use of MultiMedia](#Use-of-MultiMedia) |                        |
 
 ## PAGE TITLES 
@@ -184,6 +184,6 @@ Here the complete **3RI Technologies work with Result** of strategies, ranking s
 - Optimize images and multimedia content to support visual AI search results.
   
 ## User Experience
-## Authority & Trust Signals
+## Authority and Trust Signals
 ## Use of MultiMedia
   
