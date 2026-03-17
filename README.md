@@ -193,8 +193,7 @@ Footer links appear at the bottom of our web pages. They usually lead to importa
 ### 4. Sidebar links
 Sidebar links are typically found alongside our main content. 
 
-<img width="453" height="792" alt="image" src="https://github.com/user-attachments/assets/bae04329-e9e3-4d87-b078-721f84bde0db" />
-
+<img width="439" height="626" alt="image" src="https://github.com/user-attachments/assets/137debd5-9565-4ea4-b4bb-b1b5248bb93b" />
 
  <br/>
 
