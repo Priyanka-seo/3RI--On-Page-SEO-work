@@ -170,6 +170,10 @@ A complete breakdown of keyword research methods, tools, and optimization techni
 
   <img width="822" height="283" alt="image" src="https://github.com/user-attachments/assets/e651e109-375c-4f1b-9641-686566cc38ce" />
 
+### Internal links vs. external links
+
+- **Internal links** connect your content and pages within your domain. For example, a link from your “Blog” page to your “Contact” page is an internal link
+- **External links** connect your website to another domain, such as linking to a source like Wikipedia
 
  <br/>
 
