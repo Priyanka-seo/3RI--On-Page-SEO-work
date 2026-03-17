@@ -43,7 +43,8 @@
 - Show specifications when needed
 - Make sure it matches the content of the page
 - Every Meta decription should be unique
-
+ <br/>
+<br/>
 ## Heading
 "**H1**" for the main topic, with H2s for main sections and H3s for sub-sections, maintaining logical hierarchy.
 
@@ -53,6 +54,8 @@ one "**H1**" per page.
 
 "**H3**" headings are used within an H2 section to break it down into smaller parts. They are useful when we explain steps, compare options, or cover several closely related points within one larger section.
 
+ <br/>
+  <br/>
 ## Common Mistake 
 - Use Heading  only for visual styling
 - Skipping heading levels, such as jumping directly from H2 to H4. This disrupts the logical structure of the page and creates issues for screen readers and search engines.  (e.g. H4 should not follow H2)
@@ -95,6 +98,8 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 <br/>
 <img width="1447" height="544" alt="H4-H6 Note" src="https://github.com/user-attachments/assets/987ca0ef-ed6d-453e-a18f-2e0e98965755" />
 
+ <br/>
+  <br/>
  
 ## Content
 ## URL Optimization
@@ -112,7 +117,9 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 - Avoiding dynamic parameters and unnecessary characters.
 - Exclude dynamic parameters
 - Limit redirection
-  
+
+  <br/>
+  <br/>
 ## Image Optimization
 
 ### Image optimization for improved accessibility in search results
@@ -133,6 +140,8 @@ Basically, We need to make our images:
 - **Better user experience**- Optimized images create a faster, smoother, and more accessible browsing experience, which increases user engagement and reduces bounce rate.
 - **Better visibility for AI-driven results**- Optimized images help AI-powered search engines understand visual content better, improving the chances of appearing in AI-driven search results and visual discovery features.
 
+ <br/>
+<br/>
 ### On-page image optimization
 - Use descriptive, keyword-relevant filenames
 - Write meaningful alt text (but not just for SEO)
@@ -167,7 +176,8 @@ A complete breakdown of keyword research methods, tools, and optimization techni
 - A strong internal linking strategy enhances user engagement, reduces bounce rates, and increases the visibility of key pages
 - Internal linking signals topical authority and facilitates better indexing by search engines
 
-
+ <br/>
+  <br/>
 ## AI Search Optimization
 
 AI Search Optimization focuses on structuring and optimizing content so that AI-powered search systems can easily understand, interpret, and present the information in AI-generated results. Modern search engines use artificial intelligence to generate summaries, answer queries, and highlight relevant content directly in search results.
