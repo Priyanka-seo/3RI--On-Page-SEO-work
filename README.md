@@ -175,6 +175,11 @@ A complete breakdown of keyword research methods, tools, and optimization techni
 - **Internal links** connect your content and pages within your domain. For example, a link from your “Blog” page to your “Contact” page is an internal link
 - **External links** connect your website to another domain, such as linking to a source like Wikipedia
 
+### Types of internal links
+### Navigational links
+links found in our main menu or header navigation. They help visitors access key sections of your site, like your homepage, services, or blog, with ease.
+<img width="1428" height="52" alt="image" src="https://github.com/user-attachments/assets/9cdb7adf-fd1f-4de7-9bfb-85d69089e676" />
+
  <br/>
 
 ## AI Search Optimization
