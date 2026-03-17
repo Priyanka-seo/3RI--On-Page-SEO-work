@@ -142,7 +142,8 @@ Basically, We need to make our images:
 
  <br/>
 <br/>
-### On-page image optimization
+
+## On-page image optimization
 - Use descriptive, keyword-relevant filenames
 - Write meaningful alt text (but not just for SEO)
 - Optimize image titles and captions (when appropriate) their is a differnce between captions and title: Captions are not the same as title attributes
