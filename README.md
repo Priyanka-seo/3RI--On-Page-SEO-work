@@ -16,7 +16,6 @@
 ## PAGE TITLES 
 - Are all page titles under 65 characters? (570 pixels)
 <br/>
-<br/>
   <img width="1915" height="346" alt="image" src="https://github.com/user-attachments/assets/34b13502-3f73-4653-9fa7-7b86dd169be7" />
   <br/>
   <br/>
@@ -25,15 +24,15 @@
 - Any signs of keyword cannibalisation?
 - Is the primary keyword/phrase close to the start?
   <br/>
-  <br/>
+
   <img width="1911" height="290" alt="image" src="https://github.com/user-attachments/assets/3c173b53-6bf8-4a45-87c9-f981acb10db1" />
   <br/>
-  <br/>
+
 
 - Are page titles descriptive of the page content?
 - Are any page titles missing?
   <br/>
-  <br/>
+ 
 
 ## Meta Decription
 - Keep it up to 155 characters
@@ -44,7 +43,7 @@
 - Make sure it matches the content of the page
 - Every Meta decription should be unique
  <br/>
-<br/>
+
 
 ## Heading
 
@@ -106,10 +105,10 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 - Use Single domain and Sub domain
 - More readable for human
   <br/>
-  <br/>
+
   <img width="1123" height="154" alt="image" src="https://github.com/user-attachments/assets/cebdce22-23a1-4487-b011-99b870e06b43" />
 <br/>
-<br/>
+
 
 - Keeping URLs short and descriptive.
 - Using hyphens to separate words.
@@ -119,7 +118,7 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 - Limit redirection
 
   <br/>
-  <br/>
+ 
 ## Image Optimization
 
 ### Image optimization for improved accessibility in search results
@@ -154,7 +153,7 @@ Basically, We need to make our images:
 - Use browser caching for images to reduce repeated loading and improve user experience.
 
  <br/>
-<br/>
+
   
 ## Keyword Research and Optimization
 
@@ -167,7 +166,7 @@ Proper keyword optimization also ensures that the content aligns with user inten
 🔎 Detailed Guide:
 A complete breakdown of keyword research methods, tools, and optimization techniques,is in the detailed documentation mentioned:[Keyword Research and Optimization](https://github.com/Priyanka-seo/Keyword-Ranking)
 <br/>
-<br/>
+
 
 ## Internal Links 
 (In-Page Links)
@@ -177,7 +176,7 @@ A complete breakdown of keyword research methods, tools, and optimization techni
 - Internal linking signals topical authority and facilitates better indexing by search engines
 
  <br/>
-  <br/>
+
 ## AI Search Optimization
 
 AI Search Optimization focuses on structuring and optimizing content so that AI-powered search systems can easily understand, interpret, and present the information in AI-generated results. Modern search engines use artificial intelligence to generate summaries, answer queries, and highlight relevant content directly in search results.
