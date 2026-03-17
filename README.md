@@ -157,8 +157,16 @@ Proper keyword optimization also ensures that the content aligns with user inten
 
 🔎 Detailed Guide:
 A complete breakdown of keyword research methods, tools, and optimization techniques,is in the detailed documentation mentioned:[Keyword Research and Optimization](https://github.com/Priyanka-seo/Keyword-Ranking)
+<br/>
+<br/>
+
 ## Internal Links 
 (In-Page Links)
+- Internal linking it enhances crawlability and helps search engines understand your site structure
+- Internal links include navigational, contextual, footer, and sidebar links, each serving distinct purposes
+- A strong internal linking strategy enhances user engagement, reduces bounce rates, and increases the visibility of key pages
+- Internal linking signals topical authority and facilitates better indexing by search engines
+
 
 ## AI Search Optimization
 
