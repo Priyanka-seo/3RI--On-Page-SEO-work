@@ -180,6 +180,22 @@ A complete breakdown of keyword research methods, tools, and optimization techni
 links found in our main menu or header navigation. They help visitors access key sections of your site, like your homepage, services, or blog, with ease.
 <img width="1428" height="52" alt="image" src="https://github.com/user-attachments/assets/9cdb7adf-fd1f-4de7-9bfb-85d69089e676" />
 
+### 2. Contextual links
+Contextual links appear naturally within the body of our content, such as blog posts or landing pages. These links guide readers to related topics or supporting pages, helping search engines understand the connections between your content and its context.
+
+<img width="786" height="131" alt="image" src="https://github.com/user-attachments/assets/a64cbdd6-be02-4edc-9de4-c404d6bedb54" />
+
+### 3. Footer links
+Footer links appear at the bottom of our web pages. They usually lead to important informational or legal pages such as your privacy policy, terms of service, or sitemap.
+
+<img width="1894" height="223" alt="image" src="https://github.com/user-attachments/assets/b6a24ace-6af7-4869-8216-10bcaa9fd622" />
+
+### 4. Sidebar links
+Sidebar links are typically found alongside our main content. 
+
+<img width="453" height="792" alt="image" src="https://github.com/user-attachments/assets/bae04329-e9e3-4d87-b078-721f84bde0db" />
+
+
  <br/>
 
 ## AI Search Optimization
