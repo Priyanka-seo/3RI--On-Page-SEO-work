@@ -167,8 +167,8 @@ A complete breakdown of keyword research methods, tools, and optimization techni
 - Internal links include navigational, contextual, footer, and sidebar links, each serving distinct purposes
 - A strong internal linking strategy enhances user engagement, reduces bounce rates, and increases the visibility of key pages
 - Internal linking signals topical authority and facilitates better indexing by search engines
+<img width="831" height="118" alt="image" src="https://github.com/user-attachments/assets/8802680d-1a46-475c-bf57-9620b8ec7c49" />
 
-  <img width="822" height="283" alt="image" src="https://github.com/user-attachments/assets/e651e109-375c-4f1b-9641-686566cc38ce" />
 
 ### Internal links vs. external links
 
