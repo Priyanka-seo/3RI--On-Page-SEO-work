@@ -140,9 +140,6 @@ Basically, We need to make our images:
 - **Better user experience**- Optimized images create a faster, smoother, and more accessible browsing experience, which increases user engagement and reduces bounce rate.
 - **Better visibility for AI-driven results**- Optimized images help AI-powered search engines understand visual content better, improving the chances of appearing in AI-driven search results and visual discovery features.
 
- <br/>
-<br/>
-
 ## On-page image optimization
 - Use descriptive, keyword-relevant filenames
 - Write meaningful alt text (but not just for SEO)
@@ -156,6 +153,8 @@ Basically, We need to make our images:
 - Create and submit an image sitemap
 - Use browser caching for images to reduce repeated loading and improve user experience.
 
+ <br/>
+<br/>
   
 ## Keyword Research and Optimization
 
