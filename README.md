@@ -45,7 +45,9 @@
 - Every Meta decription should be unique
  <br/>
 <br/>
+
 ## Heading
+
 "**H1**" for the main topic, with H2s for main sections and H3s for sub-sections, maintaining logical hierarchy.
 
 one "**H1**" per page.
