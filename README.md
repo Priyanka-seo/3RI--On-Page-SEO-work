@@ -194,6 +194,25 @@ Footer links appear at the bottom of our web pages. They usually lead to importa
 Sidebar links are typically found alongside our main content. 
 
 <img width="439" height="626" alt="image" src="https://github.com/user-attachments/assets/137debd5-9565-4ea4-b4bb-b1b5248bb93b" />
+<br/>
+
+### Internal linking important for SEO and GEO
+- Better website navigation for visitors
+- Drive link equity
+- Establishing website hierarchy
+- Enhance page indexing
+- Boosting Page Views and driving engagement
+- Provide contextual clarity
+- Strengthens topical authority
+
+### Blueprint to set up an internal linking strategy
+- Identifying the main and supporting pages
+- Build content hubs
+- Use keyword-focused anchor texts
+- **Create taxonomies for structure**- For instance, on the page of our SEO part, we link to several tag pages, including ‘Technical SEO‘ and ‘Off-Page’
+- Add contextual links
+- Highlight related and popular posts
+- Add links to our most recent posts
 
  <br/>
 
