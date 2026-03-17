@@ -196,6 +196,9 @@ Sidebar links are typically found alongside our main content.
 <img width="439" height="626" alt="image" src="https://github.com/user-attachments/assets/137debd5-9565-4ea4-b4bb-b1b5248bb93b" />
 <br/>
 
+### In-Page Links
+In-page links as jump links or anchor links  are links that take users to a specific section on the same page.In-page links can serve various purposes, such as a Back to Top link or a Skip to Content link for keyboard users, but one of their most common uses is in a table of contents.e.g [Table of contents](#Table-Of-Content)
+
 ### Internal linking important for SEO and GEO
 - Better website navigation for visitors
 - Drive link equity
