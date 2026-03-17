@@ -18,7 +18,6 @@
 <br/>
   <img width="1915" height="346" alt="image" src="https://github.com/user-attachments/assets/34b13502-3f73-4653-9fa7-7b86dd169be7" />
   <br/>
-  <br/>
 
 - Are any page titles being duplicated without canonical/pagination?
 - Any signs of keyword cannibalisation?
@@ -27,7 +26,6 @@
 
   <img width="1911" height="290" alt="image" src="https://github.com/user-attachments/assets/3c173b53-6bf8-4a45-87c9-f981acb10db1" />
   <br/>
-
 
 - Are page titles descriptive of the page content?
 - Are any page titles missing?
@@ -43,7 +41,6 @@
 - Make sure it matches the content of the page
 - Every Meta decription should be unique
  <br/>
-
 
 ## Heading
 
@@ -94,11 +91,10 @@ one "**H1**" per page.
 
 we should not use H3 headings unless they add clarity. Headings are meant to support the reader, not to decorate the page.
 <br/>
-<br/>
+
 <img width="1447" height="544" alt="H4-H6 Note" src="https://github.com/user-attachments/assets/987ca0ef-ed6d-453e-a18f-2e0e98965755" />
 
  <br/>
-  <br/>
  
 ## Content
 ## URL Optimization
@@ -108,7 +104,6 @@ we should not use H3 headings unless they add clarity. Headings are meant to sup
 
   <img width="1123" height="154" alt="image" src="https://github.com/user-attachments/assets/cebdce22-23a1-4487-b011-99b870e06b43" />
 <br/>
-
 
 - Keeping URLs short and descriptive.
 - Using hyphens to separate words.
@@ -153,7 +148,6 @@ Basically, We need to make our images:
 - Use browser caching for images to reduce repeated loading and improve user experience.
 
  <br/>
-
   
 ## Keyword Research and Optimization
 
@@ -166,7 +160,6 @@ Proper keyword optimization also ensures that the content aligns with user inten
 🔎 Detailed Guide:
 A complete breakdown of keyword research methods, tools, and optimization techniques,is in the detailed documentation mentioned:[Keyword Research and Optimization](https://github.com/Priyanka-seo/Keyword-Ranking)
 <br/>
-
 
 ## Internal Links 
 (In-Page Links)
