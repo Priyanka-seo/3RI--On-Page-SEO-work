@@ -54,8 +54,6 @@ one "**H1**" per page.
 
 "**H3**" headings are used within an H2 section to break it down into smaller parts. They are useful when we explain steps, compare options, or cover several closely related points within one larger section.
 
- <br/>
-  <br/>
 ## Common Mistake 
 - Use Heading  only for visual styling
 - Skipping heading levels, such as jumping directly from H2 to H4. This disrupts the logical structure of the page and creates issues for screen readers and search engines.  (e.g. H4 should not follow H2)
